@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "2697EF3E27327E4DA6D7F8D72259686E",
+  "keywordClasses": [
+    {
+      "name": "Setup",
+      "keywordMethods": [
+        {
+          "name": "setup",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

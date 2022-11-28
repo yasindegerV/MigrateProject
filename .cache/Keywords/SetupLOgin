@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "FF563C1C9AB8EC45FCD2B2451062E5AD",
+  "keywordClasses": [
+    {
+      "name": "SetupLOgin",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
