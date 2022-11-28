@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hello world</name>
+   <tag></tag>
+   <elementGuidId>c3818d82-d17b-432a-adef-b3275e6c49d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='recent-posts-2']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#recent-posts-2 > ul > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db74f345-34f9-4089-a523-ce3b0cb4e7c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/2019/04/30/hello-world/</value>
+      <webElementGuid>35a21cf7-6807-4a37-81ea-5bab6141e092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello world!</value>
+      <webElementGuid>254b4db0-5793-4fcd-b891-64cec6ac9d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recent-posts-2&quot;)/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>6585797f-f1d9-4e90-9f82-1644d47e23cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='recent-posts-2']/ul/li/a</value>
+      <webElementGuid>fcd4ff6c-c101-410d-8e3a-a9c8f701825e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hello world!')]</value>
+      <webElementGuid>40c57a79-c21b-48e3-86e8-bac03eb08357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Posts'])[1]/following::a[1]</value>
+      <webElementGuid>3c590db2-443c-4ca3-b16b-3ba152c8a26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[1]</value>
+      <webElementGuid>477eeb49-3409-415b-83b8-03173d7f960e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Comments'])[1]/preceding::a[1]</value>
+      <webElementGuid>d3fc60f3-de6b-4627-ace5-f4ee2bedd724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello world!']/parent::*</value>
+      <webElementGuid>b58f3438-8fe9-4390-a91c-d7e70e9a0152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://cms.demo.katalon.com/2019/04/30/hello-world/')]</value>
+      <webElementGuid>fa108eeb-f780-4383-8f39-1e81c328f16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li/a</value>
+      <webElementGuid>a362cd64-13e9-4ed9-809f-6289c7163a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cms.demo.katalon.com/2019/04/30/hello-world/' and (text() = 'Hello world!' or . = 'Hello world!')]</value>
+      <webElementGuid>70ed87fb-93d9-4bbe-bb5d-06255c29c1b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
